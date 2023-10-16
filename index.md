@@ -4,7 +4,14 @@ title: Your Name - Academic Portfolio
 ---
 ![Featured Image](/assets/websitebanner2.jpg)
 # Emilie Buckley
-####  Librarian and researcher with a spark of imagination dedicated to infusing technology and information and media literacy skills into the classroom.
+####  Emilie is a librarian and researcher with a spark of imagination, dedicated to infusing technology and information and media literacy skills into the classroom. Currently, Emilie is a PhD student at University of Central Florida in the Text and Technology program. She is a tenured faculty librarian at Valencia College Lake Nona Campus in Orlando, Florida. Emilie's previous academic experience includes a master of library science at Clarion University, and a master of mass communication at South Dakota State University. 
+
+## Research Interests
+* Queer Studies
+* Gender Studies
+* Game Studies
+* Media Studies
+
 
 ## Education
 #### University of Central Florida  
