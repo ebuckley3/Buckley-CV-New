@@ -19,4 +19,4 @@ Emilie is a librarian and researcher with a spark of imagination, dedicated to i
 * International Association for the Fantastic in the Arts
 
 ## Follow Me
-![LinkedIn](linkedin.jpg)(https://www.linkedin.com/in/emiliebuckley/)
+![LinkedIn](/assets/linkedin.jpg)(https://www.linkedin.com/in/emiliebuckley/)
