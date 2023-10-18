@@ -11,6 +11,7 @@ PhD Text and Technology 2023-Present
 ## South Dakota State University
 Master of Mass Communication 2017-2022
 * Professional project on media literacy and First Amendment rights
+* Course work in digital storytelling
 
 ## Clarion University
 Master of Library Science 2012-2014

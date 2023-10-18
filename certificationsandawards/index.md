@@ -9,6 +9,11 @@ title: Certifications and Awards
 Human Subjects Research- Group 2.Social / Behavioral Research Investigators and Key Personnel
 * Gained an understanding of ethics, research design, IRB proceedures, and informed consent
 
+## Digital Professor - 2020
+* Valencia College Certification
+* 20 professional development hours
+* Training in using Canvas and online tools to further student learning.
+
 ## Design Thinking - 2018
 * Valencia College Destinations faculty institute
 * Completion an intensive summer training institute on design thinking

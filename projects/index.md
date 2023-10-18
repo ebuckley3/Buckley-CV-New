@@ -14,8 +14,11 @@ Media Literacy and The First Amendment
 ## ACRL Conference Presentation - 2022
 Undercover Librarian: Enrolling in Gen Bio I as a Student
 Poster Presentation 
-[View Document](https://www.canva.com/design/DAFKPiDg92w/pe9Ezrnt_WQlvxshSE3pgw/edit?utm_content=DAFKPiDg92w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-* 2022 Association of College and Research Librarians Annual Conference  
+* [View Document](https://www.canva.com/design/DAFKPiDg92w/pe9Ezrnt_WQlvxshSE3pgw/edit?utm_content=DAFKPiDg92w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* 2022 Association of College and Research Librarians Annual Conference 
+* Observed and participated in a semester-long General Biology I course as a student 
+* Analyzed the course content to identify opportunities for library collaboration
+* Interacted with students as peers to identify study tools and potentials for plagiarism
 
 ## Tenure Portfolio - 2021
 [View Document](https://drive.google.com/file/d/1YgeyYWyUuyChvuDngv8UvhkkOpNpE3wP/view?usp=share_link)
