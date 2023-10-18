@@ -7,7 +7,7 @@ title: Professional Projects
 
 ## Master of Mass Communication Professional Project - 2023
 Media Literacy and The First Amendment
-[View Document](https://docs.google.com/document/d/1Y_9EQjGvano1JyXRpXpZd6SEOY34oQC9/edit?usp=share_link&ouid=111099948201186544509&rtpof=true&sd=true)
+* [View Document](https://docs.google.com/document/d/1Y_9EQjGvano1JyXRpXpZd6SEOY34oQC9/edit?usp=share_link&ouid=111099948201186544509&rtpof=true&sd=true)
 * Instructed students on how the First Amendment applies to online media
 * Assessed student understanding of media literacy and First Amendment rights
 
