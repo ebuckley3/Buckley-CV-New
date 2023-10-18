@@ -10,8 +10,6 @@ Emilie is a librarian and researcher with a spark of imagination, dedicated to i
 * Queer Studies
 * Gender Studies
 * Media Studies
-* Fan Studies
-
 
 ## Professional Association Affiliations
 * American Library Association
@@ -19,5 +17,7 @@ Emilie is a librarian and researcher with a spark of imagination, dedicated to i
 * Florida Library Association
 * International Association for the Fantastic in the Arts
 
-## Follow Me
+## [Contact Me](mailto:emilieschuthbuckley@gmail.com)
+
+## Let's Network
 [![LinkedIn](/assets/linkedin.jpg)](https://www.linkedin.com/in/emiliebuckley/)
