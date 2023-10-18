@@ -22,3 +22,11 @@ Valencia College 2023-Present
 
 
 # Workshops
+* Imagining Change: Civic Engagement and You
+* Resume Bootcamp
+* Professor Approved ChatGPT
+* Debunking Wellness: Fact or Fad
+* Protest Art: Make a Scene
+* Evaluating the News: Media Literacy in Action
+* Women's History Month 
+* Peace and Justice Institute: Becoming a Peace Practitioner
