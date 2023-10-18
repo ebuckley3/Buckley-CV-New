@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Projects
+title: Employment
 ---
-## Experience
-### Valencia College
+# Experience
+
+## Valencia College
 Tenured Faculty Librarian 2017-Present  
 * Assist students and faculty with academic research
 * Maintain and develop collection of books, graphic novels, AV materials, and databases
@@ -13,39 +14,27 @@ Tenured Faculty Librarian 2017-Present
 * Partnered with Student Development to teach student skillshops in critical thinking, resume writing, and media and information literacy
 * Teach faculty development courses in AI, open education resources, and equity and diversity
 
-### University of Central Florida
+## University of Central Florida
 Librarian 2016-2017  
 * Provided reference services for the Osceola campus
 * Developed instructional materials
 * Embedded librarian for the nursing program
 * Taught on-campus library instructions for education courses
 
-### Hillsborough Community College
+## Hillsborough Community College
 Librarian 2014-2016  
 * Provided reference services at the Plant City campus
 * Created instructional materials in LibGuides
 * Taught on-campus library instructions for English and humanities courses
 
-### Self-Determination Theory Institute
+## Self-Determination Theory Institute
 Research and Administrative Assistant (Contractor) 2014 
 * Maintain an online database of international research in social psychology
 * Recruit academics to participate in an internationally recognized research institute
 * Create a bibliography of over 600 sources for a definative text in self-determination theory
 
-### Hillsborough County Public Library Cooperative
+## Hillsborough County Public Library Cooperative
 Library Technical Assistant 2009-2012 
 * Maintain an online database of international research in social psychology
 * Recruit academics to participate in an internationally recognized research institute
 * Create a bibliography of over 600 sources for a definative text in self-determination theory
-
-
-
-# Projects
-
-## Project 1
-- Project Description
-- Technologies Used
-
-## Project 2
-- Project Description
-- Technologies Used
