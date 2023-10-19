@@ -163,7 +163,7 @@ GEN 103: Information Literacy
 
 ---
 
-**LIBRARY SERVICE**
+## **LIBRARY SERVICE**
 
 **Research Workshops Team**  
   *Spring 2020 - Present*  
