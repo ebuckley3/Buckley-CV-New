@@ -15,7 +15,7 @@ Email: emilieschuthbuckley@gmail.com
 **Master of Library Science**  
   *2013*  
   Clarion University, Clarion, PA
-
+ 
 **Bachelor of Arts, Interdisciplinary Studies**  
   *2009*  
   Governors State University, University Park, IL
