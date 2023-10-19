@@ -21,7 +21,7 @@ Poster Presentation
 * Interacted with students as peers to identify study tools and potentials for plagiarism
 
 ## Tenure Portfolio - 2021
-[View Document](https://drive.google.com/file/d/1YgeyYWyUuyChvuDngv8UvhkkOpNpE3wP/view?usp=share_link)
+* [View Document](https://drive.google.com/file/d/1YgeyYWyUuyChvuDngv8UvhkkOpNpE3wP/view?usp=share_link)
 * Professional Project: Assessing Media Literacy Skills of College Students
 * Professional Project: Building Connections Between College Libraries and Writing Centers
 * Professional Project: Building LGBTQ+ Safe Zones in College Libraries
