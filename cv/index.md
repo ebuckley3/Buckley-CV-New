@@ -79,6 +79,7 @@ GEN 103: Information Literacy
 **Peace and Justice Practitioner**  
   *Spring 2021*  
   Valencia College
+
 **Digital Professor Certification**  
   *Summer 2020*  
   Valencia College
@@ -105,12 +106,12 @@ GEN 103: Information Literacy
 
 **Skill Shop Facilitator**  
   *Valencia College, Lake Nona Campus*  
-    * Imagining the Future: Civic Engagement and You
-    * Media Literacy and the First Amendment
-    * Resume Building Workshop 
-    * Fact-Checking and the Myth of Truth - Skill Shop 
-    * Information Justice: Fact Checking Textbooks
-    * Fact-Checking Wellness
+  * Imagining the Future: Civic Engagement and You
+  * Media Literacy and the First Amendment
+  * Resume Building Workshop 
+  * Fact-Checking and the Myth of Truth - Skill Shop 
+  * Information Justice: Fact Checking Textbooks
+  * Fact-Checking Wellness
 
 **Professional Development Facilitator**  
   *Summer 2020 - Present*  
@@ -125,7 +126,7 @@ GEN 103: Information Literacy
 
   ---
 
- ## **COLLEGE SERVICE**
+## **COLLEGE SERVICE**
 
  **Atlas Redesign Team**  
   *Spring 2021-Present*  
