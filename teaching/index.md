@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 # Teaching Philosophy
-[View Document](https://docs.google.com/document/d/1Yw2AZVOQML7_pDrtTc8ikNCQwT-zYUJl/edit?usp=share_link&ouid=111099948201186544509&rtpof=true&sd=true)
+#[View Document](https://docs.google.com/document/d/1Yw2AZVOQML7_pDrtTc8ikNCQwT-zYUJl/edit?usp=share_link&ouid=111099948201186544509&rtpof=true&sd=true)
 
 # Instructional Faculty
 
