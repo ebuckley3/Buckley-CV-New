@@ -1,14 +1,23 @@
 ---
 layout: default
-title: Projects
+title: Education
 ---
 
-# Projects
+# Education
+## University of Central Florida  
+PhD Text and Technology 2023-Present
+* Specialization in digital humanities
 
-## Project 1
-- Project Description
-- Technologies Used
+## South Dakota State University
+Master of Mass Communication 2017-2022
+* Professional project on media literacy and First Amendment rights
+* Course work in digital storytelling
 
-## Project 2
-- Project Description
-- Technologies Used
+## Clarion University
+Master of Library Science 2012-2014
+* Specialization in research libraries
+* Professional project on LGBTQ+ inclusion in academic libraries
+
+## Governors State University
+Bachelors of Arts - Interdisciplinary Studies 2009-2011
+* Coursework in addiction studies, psychology, and women's studies
